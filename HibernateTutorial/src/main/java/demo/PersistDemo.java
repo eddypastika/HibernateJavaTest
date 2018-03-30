@@ -12,6 +12,7 @@ import learn.eddypastika.HibernateTutorial.HibernateUtils;
 
 public class PersistDemo {
 
+	//second commit
 	public static void main(String[] args) {
 		
 	SessionFactory factory = HibernateUtils.getSessionfactory();
